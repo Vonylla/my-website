@@ -1,2 +1,2 @@
 # my-website
-Personal website project
+My personal website project
